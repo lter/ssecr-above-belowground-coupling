@@ -22,7 +22,7 @@ Multiple studies have identified relationships between climate variability and a
 - Communiy properties that we intent to evaluate: richness, evenness, diversity, dominance, biomass.
 - Response: primary productivity measured as biomass.
 
-### Hypothesis
+### Hypotheses
 1. Systems that experience more long-term variability exhibit greater degrees of decoupling.
 2. Systems that experience more extremes compared with the long-term climate variability exhibit lower degree of coupling of above- and belowground communities.
 
