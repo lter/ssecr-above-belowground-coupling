@@ -1,7 +1,11 @@
-# GROUP NAME HERE
+# Above-Belowground Coupling
 
 Investigators:
-- YOUR NAME HERE
+- Ashley Bulseco
+- Abigail Borgmeier
+- Francis Chaves Rodriguez
+- McKinley Nevins
+- Smriti Pehim Limbu
 
 ## Script Explanations
 
