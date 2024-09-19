@@ -14,7 +14,7 @@ Investigators:
 Are above- and belowground ecological communities synchronous or decoupled in response to temperature and precipitation variability?
 
 ### Rationale
-Multiple studies have identified relationships between climate variability and aboveground communities. However, belowground commmunities are often ignored when examining he impact of climate variability on ecosystems. Our purpose is to examine if above- and belowground communities respond in tandem to temperature and precipitation variability in different ecosystems.
+Multiple studies have identified relationships between climate variability and aboveground communities. However, belowground commmunities are often ignored when examining he impact of climate variability on ecosystems. Our purpose is to examine if above- and belowground communities respond synchronously to temperature and precipitation variability in different ecosystems.
 
 ### Approach
 - Find data sets focused on plant (aboveground) and soil microbial communities (belowground) across different ecosystems focused particularly on forest, grassland, desert, coastal and tundra.
