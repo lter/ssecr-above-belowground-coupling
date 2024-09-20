@@ -10,6 +10,8 @@ Investigators:
 
 ## Project description
 
+<img src=”Images/above-belowground_fig.png” alt="Alt text" width="100%" />
+
 ### Question
 Are above- and belowground ecological communities synchronous or decoupled in response to temperature and precipitation variability?
 
