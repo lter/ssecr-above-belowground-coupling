@@ -50,7 +50,7 @@ vignettes/*.pdf
 ~$*.docx
 
 # Image file types
-*.png
+#*.png
 *.jpeg
 *.jpg
 
