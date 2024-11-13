@@ -1,0 +1,25 @@
+---
+title: "Smriti_initial_codes"
+author: "Smriti Pehim Limbu"
+date: "2024-11-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#packages upload
+```{r}
+install.packages("librarian")
+librarian::shelf(tidyverse, lterdatasampler, supportR, cowplot, summarytools, datacleanr)
+
+```
+
+#upload datasets
+```{r}
+
+
+
+
+```
