@@ -66,7 +66,7 @@ source(paste0(wd, "/neon_token_source.R"))
 # for more information on neonUtilities.
 
 
-##########################################
+#########################################################################################################
 
 # DOWNLOAD
 
@@ -153,10 +153,10 @@ microbes_com %>% list2env(.GlobalEnv)
 
 # NOT following the naming conventions for the data files because these are in an intermediate stage at the moment
 
-# community composition data
+# community composition data - 16S
 write.csv(mcc_soilSeqVariantMetadata_16S,"~/Dropbox/WSU/SSECR/ssecr-above-belowground-coupling/NEON_16S_COMP.csv", row.names = FALSE)
 
-# community composition data 
+# community composition data - ITS
 write.csv(mcc_soilSeqVariantMetadata_ITS,"~/Dropbox/WSU/SSECR/ssecr-above-belowground-coupling/NEON_ITS_COMP.csv", row.names = FALSE)
 
 # list of variables 
@@ -372,39 +372,4 @@ saveRDS(microbe_biomass,"~/Dropbox/WSU/SSECR/ssecr-above-belowground-coupling/NE
 
 
 #########################################################################################################
-# WRITING LOOPS FOR UNPACKING THE CSV FILES 
-
-
-
-out_list<- list()
-for (focal_file in mmg_soilRawDataFiles$rawDataFileName[1:5]){
-  
-  #print(focal_file)
-  
-  
-  #select .... 
-  
-  out_list[[focal_file]]<- focal_file
-  
-}
-
-out_list
-
-# read.csv....
-
-# can read in the csv, do a bit of datawrangling, and then save the outputs into the list 
-
-# will discuss how to get the code to make the needed folders 
-
-# crab_df <- purrr::list_rbind(x = crab_list) to stack the data rows according 
-# to the same column names 
-
-
-# can add a column that is the original file name repeated for each data row 
-# so you can look back on the original file if anything looks funky 
-
-
-
-
-
 
