@@ -22,16 +22,25 @@ Project Mentors:
 6. University of New Hampshire, Natural Resources and the Environment, Durham, NH 03824
 7. Johns Hopkins University, Department of Earth and Planetary Sciences, Baltimore, MD 21218
 
+
+## Project description
+
+### Rationale
+<img src="Images/rationale_fig.png" alt="Conceptual figure representing a cross-section of an aboveground vegetation and belowground microbial community. These communities are intimately associated, and these associations are fundamental to the services that ecosystems provide, such as carbon sequestration, habitat and biodiversity, food production, air and water regulation, and nutrient cycling." width="75%" />
+
+Above and belowground communities are critical in supporting multiple ecosystem services such as carbon sequestration, nutrient cycling and food production. The conservation of aboveground plant and belowground microbial communities is an urgent priority. However, given that these communities interact dynamically, and often nonlinearly, the consequences of their association cannot be understood in isolation. The direction and magnitude of plant and microbial responses to environmental change are highly context-dependent, varying across space, time, and ecological gradients. Thus, synthesis of spatiotemporally paired data of above-belowground communities is urgently needed to improve understanding of full ecosystem responses to global change drivers. 
+
 ### Question
 Are aboveground plant and belowground microbial communities synchronous or decoupled in response to global change drivers?
 
-## Project description
 <img src="Images/conceptual_fig_png.png" alt="Conceptual figure representing a cross-section of an aboveground plant and belowground microbial community. Coupling of community components is driven by cycling of resources, while synchrony is reflected in fluctuations of community responses across time. These factors are impacted by environmental variation and disturbance, and subsequently affect ecosystem functioning." width="75%" />
 
-### Rationale
-Above and belowground communities are critical in supporting multiple ecosystem services such as carbon sequestration, soil fertility and food production. The conservation of aboveground plant and belowground microbial communities is an urgent priority. However, given that these communities interact dynamically, and often nonlinearly, the consequences of their association cannot be understood in isolation. The direction and magnitude of plant and microbial responses to environmental change are highly context-dependent, varying across space, time, and ecological gradients. Thus, synthesis of spatiotemporally paired data of above-belowground communities is urgently needed to improve understanding of full ecosystem responses to global change drivers. 
+### Key Definitions
+- Synchrony is the similarity in temporal fluctuations of a given ecosystem function or property among different ecosystem components such as above and belowground communities. 
+- Coupling is the absolute value of the pairwise association or correlation among constituents of the ecosystem. These constituents are fundamentally linked by fluxes of energy and matter (resources) through the system.  
 
 ### Approach
+In order to adequately assess the synchrony and coupling of above and belowground components, spatially paired data of communities monitored across ecologically-relevant timescales is essential. 
 - Search data repositories and primary literature to identify spatially paired datasets of communities across time
     - Focused on plant (aboveground) and soil microbial communities (belowground) across different ecosystems focused particularly on forest, grassland, desert, coastal and tundra.
 - Evaluate the coverage of existing datasets in networks such as the LTER and NEON, and across ecosystem types. 
