@@ -37,6 +37,7 @@ Above and belowground communities are critical in supporting multiple ecosystem 
 
 ### Key Definitions
 **Synchrony:** is the similarity in temporal fluctuations of a given ecosystem function or property among different ecosystem components such as above and belowground communities. 
+
 **Coupling:** is the absolute value of the pairwise association or correlation among constituents of the ecosystem. These constituents are fundamentally linked by fluxes of energy and matter (resources) through the system.  
 
 ### Approach
