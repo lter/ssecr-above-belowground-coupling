@@ -10,7 +10,7 @@ Investigators:
 
 ## Project description
 
-<img src="Images/conceptual_fig.png" alt="Alt text" width="100%" />
+<img src="Images/conceptual_fig_png.png" alt="Alt text" width="100%" />
 
 ### Question
 Are aboveground plant and belowground microbial communities synchronous or decoupled in response to global change drivers?
